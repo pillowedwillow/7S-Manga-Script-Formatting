@@ -1,4 +1,4 @@
-# 7S-Manga-Script-Formatting
+# 7S Manga Template
 
 Note: to download an executable file that you can run with one click, go [here](https://github.com/pillowedwillow/7S-Manga-Script-Formatting/releases).
 
