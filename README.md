@@ -1,6 +1,6 @@
 # 7S-Manga-Script-Formatting
 
-Note: to download an executable file that you can run with one-lick, go here(https://github.com/pillowedwillow/7S-Manga-Script-Formatting/releases).
+Note: to download an executable file that you can run with one-lick, go [here](https://github.com/pillowedwillow/7S-Manga-Script-Formatting/releases).
 
 This program asks the user how many pages are in their manga and creates a Word document with the indicated number of pages and eight panels under each page. This is for Seven Seas manga formatting.
 
