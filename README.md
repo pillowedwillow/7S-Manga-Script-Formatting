@@ -13,8 +13,8 @@ The created file will be named "7S Manga Script.docx" and look like this on the 
 ![Untitl3ed1](https://user-images.githubusercontent.com/54278322/147838921-815578db-5578-494d-b74a-bcc66ba8fa64.png)
 
 ## Prerequisite
-・python 3.5.3 or greater
-・[python-docx](https://python-docx.readthedocs.io/en/latest/user/install.html)
+- python 3.5.3 or greater
+- [python-docx](https://python-docx.readthedocs.io/en/latest/user/install.html)
 
 ## Input
 ```
