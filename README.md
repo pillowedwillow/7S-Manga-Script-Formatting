@@ -17,5 +17,6 @@ python 3.5.3 or greater
 [python-docx](https://python-docx.readthedocs.io/en/latest/user/install.html)
 
 ## Input
-
-> python script.py
+```
+python script.py
+```
