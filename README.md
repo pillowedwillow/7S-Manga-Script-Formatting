@@ -20,3 +20,5 @@ The created file will be named "7S Manga Script.docx" and look like this on the 
 ```
 python script.py
 ```
+## Last Step
+If you found this program useful please give it a ⭐ star ⭐ at the top of the page.
